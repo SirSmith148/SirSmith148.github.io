@@ -26,7 +26,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="3.5">
     <Name>Marriott Tempe</Name>
     <Phone>480-345-1111</Phone>
     <Address NearestAirport="Phoenix-Mesa Gateway">
@@ -63,7 +63,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="4.9">
     <Name>Hyatt Place</Name>
     <Phone>480-876-5432</Phone>
     <Address NearestAirport="Phoenix Airport">
@@ -100,7 +100,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
+  <Hotel Rating="2.9">
     <Name>Embassy Suites</Name>
     <Phone>602-888-9999</Phone>
     <Phone>602-888-0000</Phone>
